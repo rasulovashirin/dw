@@ -339,6 +339,7 @@ list-style-type:none;
 .line{
  background-color:  rgb(196, 158, 231);
  height: 1px;
+ 
 }
 /* footer */
 .footer-top{
@@ -466,6 +467,7 @@ list-style-type:none;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 81px;
 }
 .footer-bottom-text{
   font-size: 12px;
