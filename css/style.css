@@ -91,7 +91,6 @@ body{
 .main-information-link{
   background-color: #9C69E2;
   padding: 16px 37px;
-
   border-radius: 50px;
   text-decoration: none;
   color:#FFFFFF;
@@ -338,5 +337,57 @@ list-style-type:none;
   margin-left: 19px;
 }
 .line{
-  
+ background-color:  rgb(196, 158, 231);
+ height: 1px;
+}
+/* footer */
+.footer-top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 150px;
+}
+.footer-top-left{
+  width: 405px;
+
+}
+.left-head{
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 130%;
+  color: #212353;
+  margin-bottom: 20px;
+  margin: 0;
+}
+.left-text{
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  color: #4B5D68;
+  margin: 0;
+}
+.footer-top-right{
+  display: flex;
+}
+.more-link{
+  background-color:#F063B8;
+  padding: 16px 37px;
+  border-radius: 50px;
+  text-decoration: none;
+  color:#FFFFFF;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 160%;
+  margin-right: 20px;
+
+}
+.logo-link{
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 160%;
+  color: #212353;
+}
+.logo-last{
+  margin-right: 0;
 }
