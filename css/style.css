@@ -343,6 +343,9 @@ list-style-type:none;
 
 }
 /* footer */
+.footer{
+  margin-top: 100px;
+}
 .footer-top{
   display: flex;
   align-items: center;
